@@ -14,7 +14,7 @@ keywords = ["egui", "gizmo"]
 exclude = ["/docs"]
 
 [dependencies]
-egui = "0.23.0"
+egui = "0.27.0"
 glam = { version = "0.24", features = ["mint"] }
 mint = "0.5"
 
